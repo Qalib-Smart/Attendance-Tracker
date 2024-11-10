@@ -1,2 +1,2 @@
 # Attendance-Tracker
-A web-based system to manage and track student attendance, built with PHP, MySQL, and modern front-end technologies.
+Attendance Tracker is a web-based application designed to streamline student attendance management. With roles for admins, lecturers, and students, the system enables easy attendance tracking, real-time monitoring, and efficient data management. Built to simplify administrative tasks, improve accuracy, and enhance classroom management. It built with PHP, MySQL, and modern front-end technologies.
